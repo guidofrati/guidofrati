@@ -39,9 +39,6 @@
 <a href="https://github.com/guidofrati" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
-<a href="guidofraticelli22@gmail.com" target="_blank">
-<img src=https://res.cloudinary.com/dbkwplcjs/image/upload/v1688020484/gmail_button_icon_151848_tpfjge.png alt=gmail style="margin-bottom: 5px;" width="90px"/>
-</a>
 </div>  
 <br/> 
 
